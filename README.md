@@ -3,41 +3,32 @@ Linux Command Note
 
 ## 文件管理
 
-### ls
-### cd
-### pwd
-### cp
-### mv
-### rm
-### mkdir
-### rmdir
+- ls
+- cd
+- pwd
+- cp
+- mv
+- rm
+- mkdir
+- rmdir
+- cat
+- diff
 
-### cat
-### sed
-### diff
+## 权限管理
 
-### wc
-
-### chmod
-### chown
-
-### awk
-### grep
-
-
-### ln
-### tar
-
+- chmod
+- chown
 
 ## 硬件管理
-### df
+
+- df
 
 
 ## 系统管理
 
-### ps
+- ps
 
-```shell
+```bash
 ps -ef
 ```
 
@@ -53,7 +44,7 @@ ps -ef
 - CMD 启动的程序名称
 
 如果想获得更多信息可以使用`-l`
-```shell
+```bash
 ps -l
 ```
 

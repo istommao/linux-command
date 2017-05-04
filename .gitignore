@@ -3,3 +3,5 @@
 _book
 .md_configs.data
 .me_configs.data
+
+node_modules/

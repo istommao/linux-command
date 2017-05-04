@@ -1,5 +1,7 @@
 # htop
 
+<!-- toc -->
+
 `官网` http://htop.sourceforge.net/
 
 ## 与top相比，htop有以下优点：
