@@ -5,3 +5,12 @@ _book
 .me_configs.data
 
 node_modules/
+.sync/*
+
+.z_sync_configs.data
+
+sync_changes.log
+
+sync_hook.script
+
+**/.Archive
