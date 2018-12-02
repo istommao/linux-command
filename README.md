@@ -46,3 +46,7 @@ Linux Command Note
 - neovim: 替代vim
 - script/scriptreplay: 终端会话录制
 - you-get: 非常强大的媒体下载工具，支持youtube、google+、优酷、芒果TV、腾讯视频、秒拍等视频下载
+
+## shell
+
+> 什么是shell

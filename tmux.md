@@ -22,4 +22,3 @@ yum install tmux        # Centos
 tmux
 ```
 
-
