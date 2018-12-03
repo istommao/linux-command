@@ -1,3 +1,8 @@
 # 监控工具
 
-## htop
+- top
+- htop
+- free
+- vmstat
+- iostat
+- lsof

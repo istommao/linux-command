@@ -2,3 +2,8 @@
 
 - ifconfig
 - ssh
+- traceroute
+- ping
+- scp
+- rsync
+- netstat

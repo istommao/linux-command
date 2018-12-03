@@ -7,7 +7,9 @@
         "prism",
         "sitemap",
         "toc2",
-        "expandable-chapters"
+        "expandable-chapters",
+        "page-toc-button",
+        "back-to-top-button"
     ],
     "pluginsConfig": {
         "github": {
@@ -17,6 +19,11 @@
             "hostname": "https://os.silentnotes.top/"
         },
         "prism": {
+            "lang": {
+                "console": "bash",
+                "shell": "bash",
+                "clang": "c"
+            },
             "css": [
               "prismjs/themes/prism-okaidia.css"
             ]
@@ -25,6 +32,6 @@
             "addClass": true,
             "className": "toc"
         },
-        "expandable-chapters": {}
+        "expandable-chapters":{}
     }
 }
